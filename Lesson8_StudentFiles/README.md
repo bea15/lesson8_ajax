@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Bailey Anderson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(For this assignment, we built an applicaiton that displayed information about movies when you typed in a specific title.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Companies like google release APIs to the public so software developers can design products that are powered by their services.)
+2. (Developers can make HTTP requests by including method calls in the code of their applications.)
+3. (AJAX stands for Asynchronous JavaScript and XML.)
